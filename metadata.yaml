@@ -1,0 +1,44 @@
+_repo: The-Star-Beast_64596
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Vestal, Herman B.
+    aliases:
+    - Beeson
+    - Vestal, Herman Beeson
+    - Vestal, H. B. (Herman B.)
+    birthdate: 1916
+    deathdate: 2007
+    gutenberg_agent_id: '33400'
+    url: http://www.gutenberg.org/2009/agents/33400
+creator:
+  author:
+    agent_name: Knight, Damon
+    aliases:
+    - Knight, Damon Francis
+    - Fleming, Stuart
+    birthdate: 1922
+    deathdate: 2002
+    gutenberg_agent_id: '25414'
+    url: http://www.gutenberg.org/2009/agents/25414
+    wikipedia: https://en.wikipedia.org/wiki/Damon_Francis_Knight
+description: ''
+gutenberg_issued: '2021-02-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcc 'PS'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Murder -- Investigation -- Fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Space ships -- Fiction'
+- GITenberg
+title: The Star Beast
+url: http://www.gutenberg.org/ebooks/64596
